@@ -11,3 +11,7 @@ toolchain-version = "1.64.1"
 build-config = { flavor = "sui", edition = "2024" }
 upgrade-capability = "0xe9a87478233f755597275f75ad5f84c2b9b0973db60adcce67aea67324d56e8d"
 marketplace = "0x4856b36ff4450daea43e0616eccb46f92e7e65e2d3338e5ecf74f6870aa3c14a"
+
+flashloan_admin-cap = "0x65bf3b6cc53ec3d9e4dfc126eaa861a730a727e5ec91dbec991a54f9e8522fbc"
+aui_pool = "0xe6d284584c756a51abf8fa2c9b23c5eedfb3acddd1ffd60c047807416d566714"
+bsui_pool = "0x2f30d99c2d9822f2dd606a4e625d206986bb837a62ccca23aaab62005d8071b1"
